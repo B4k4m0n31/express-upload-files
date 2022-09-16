@@ -1,5 +1,5 @@
 # ExpressUpdate
-This small aplication uses a simple form in HTML to upload a file on an Express server
+Small application that uses a simple form in HTML to upload a file on an ExpressJS server
 
 ## Technologies
 * NodeJS
