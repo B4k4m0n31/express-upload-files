@@ -2,8 +2,8 @@
 
 ## Technologies
 * NodeJS
-** ExpressJS
-** Multer
+  * ExpressJS
+  * Multer
 
 ## Index.js
 Small ExpressJS server with a Route to upload files
