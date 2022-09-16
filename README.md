@@ -1,12 +1,7 @@
 # ExpressUpdate
+This small aplication uses a simple form in HTML to upload a file on an Express server
 
 ## Technologies
 * NodeJS
   * ExpressJS
   * Multer
-
-## Index.js
-Small ExpressJS server with a Route to upload files
-
-## Index.html
-Form to sent a POST Request to the server 
